@@ -1,0 +1,8 @@
+names:
+- tomato
+- tomato_plant
+- not_tomato
+nc: 3
+path: tomato_training_project\datasets\tomato_detection
+train: images/train
+val: images/val
