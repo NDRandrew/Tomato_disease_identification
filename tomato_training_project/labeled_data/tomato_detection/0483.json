@@ -1,0 +1,85 @@
+{
+  "image_path": "tomato_training_project\\raw_images\\tomato_detection\\0483.JPG",
+  "image_name": "0483.JPG",
+  "task": "tomato_detection",
+  "annotations": [
+    {
+      "class": "tomato",
+      "bbox": [
+        2435.0,
+        1669.0,
+        3565.0,
+        2939.0
+      ],
+      "width": 6000,
+      "height": 4000
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        4285.0,
+        1682.0,
+        5141.0,
+        2469.0
+      ],
+      "width": 6000,
+      "height": 4000
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        4667.0,
+        996.0,
+        5441.0,
+        1791.0
+      ],
+      "width": 6000,
+      "height": 4000
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        5359.0,
+        1509.0,
+        5946.0,
+        2156.0
+      ],
+      "width": 6000,
+      "height": 4000
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        2259.0,
+        2767.0,
+        3224.0,
+        3859.0
+      ],
+      "width": 6000,
+      "height": 4000
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        1098.0,
+        1774.0,
+        2185.0,
+        2796.0
+      ],
+      "width": 6000,
+      "height": 4000
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        1802.0,
+        269.0,
+        3028.0,
+        1343.0
+      ],
+      "width": 6000,
+      "height": 4000
+    }
+  ],
+  "labeled_date": "2025-08-23T20:48:31.664540"
+}

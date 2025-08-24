@@ -1,0 +1,12 @@
+{
+  "total_files": 1040,
+  "converted_files": 1040,
+  "failed_files": 0,
+  "total_objects": 18224,
+  "class_counts": {
+    "tomato": 18224
+  },
+  "failed_file_list": [],
+  "conversion_start": "2025-08-23T20:48:30.441926",
+  "conversion_end": "2025-08-23T20:48:31.715774"
+}
