@@ -1,0 +1,173 @@
+{
+  "image_path": "tomato_training_project\\raw_images\\tomato_detection\\0070.JPG",
+  "image_name": "0070.JPG",
+  "task": "tomato_detection",
+  "annotations": [
+    {
+      "class": "tomato",
+      "bbox": [
+        2480.0,
+        310.0,
+        2762.0,
+        570.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        2686.0,
+        28.0,
+        3148.0,
+        376.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        3553.0,
+        605.0,
+        3988.0,
+        1022.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        1868.0,
+        199.0,
+        2235.0,
+        664.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        2632.0,
+        966.0,
+        3030.0,
+        1394.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        1996.0,
+        317.0,
+        2558.0,
+        871.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        2864.0,
+        1248.0,
+        3385.0,
+        1737.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        2633.0,
+        436.0,
+        3474.0,
+        1244.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        726.0,
+        275.0,
+        1758.0,
+        1152.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        671.0,
+        1491.0,
+        1274.0,
+        1965.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        8.0,
+        712.0,
+        1099.0,
+        1613.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        1910.0,
+        968.0,
+        2563.0,
+        1566.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        2341.0,
+        1303.0,
+        2839.0,
+        1807.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        1000.0,
+        1121.0,
+        1653.0,
+        1707.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        3259.0,
+        1030.0,
+        4023.0,
+        1693.0
+      ],
+      "width": 4032,
+      "height": 3024
+    }
+  ],
+  "labeled_date": "2025-08-23T20:48:31.162392"
+}

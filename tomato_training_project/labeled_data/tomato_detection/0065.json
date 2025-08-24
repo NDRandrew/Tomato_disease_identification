@@ -1,0 +1,96 @@
+{
+  "image_path": "tomato_training_project\\raw_images\\tomato_detection\\0065.JPG",
+  "image_name": "0065.JPG",
+  "task": "tomato_detection",
+  "annotations": [
+    {
+      "class": "tomato",
+      "bbox": [
+        693.0,
+        1.0,
+        999.0,
+        100.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        2945.0,
+        2102.0,
+        3140.0,
+        2421.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        927.0,
+        1.0,
+        1446.0,
+        139.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        513.0,
+        1189.0,
+        1201.0,
+        1865.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        915.0,
+        1667.0,
+        1681.0,
+        2339.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        3148.0,
+        1772.0,
+        3815.0,
+        2396.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        2129.0,
+        1711.0,
+        3064.0,
+        2670.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        1329.0,
+        2111.0,
+        2238.0,
+        3014.0
+      ],
+      "width": 4032,
+      "height": 3024
+    }
+  ],
+  "labeled_date": "2025-08-23T20:48:31.157546"
+}

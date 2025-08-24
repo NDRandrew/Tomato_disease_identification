@@ -1,0 +1,250 @@
+{
+  "image_path": "tomato_training_project\\raw_images\\tomato_detection\\0027.JPG",
+  "image_name": "0027.JPG",
+  "task": "tomato_detection",
+  "annotations": [
+    {
+      "class": "tomato",
+      "bbox": [
+        1.0,
+        1986.0,
+        145.0,
+        2226.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        2293.0,
+        1.0,
+        2533.0,
+        184.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        3688.0,
+        34.0,
+        3999.0,
+        359.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        3397.0,
+        1.0,
+        3816.0,
+        269.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        894.0,
+        2242.0,
+        1074.0,
+        2421.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        3524.0,
+        2176.0,
+        3873.0,
+        2545.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        3160.0,
+        1750.0,
+        3498.0,
+        2035.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        1236.0,
+        1470.0,
+        2044.0,
+        2324.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        926.0,
+        2698.0,
+        1408.0,
+        3024.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        3578.0,
+        259.0,
+        3849.0,
+        560.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        798.0,
+        1091.0,
+        1783.0,
+        2037.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        2619.0,
+        451.0,
+        3180.0,
+        945.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        2281.0,
+        485.0,
+        2611.0,
+        735.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        2756.0,
+        919.0,
+        3393.0,
+        1546.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        35.0,
+        489.0,
+        1145.0,
+        1483.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        2274.0,
+        1362.0,
+        2996.0,
+        2062.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        2040.0,
+        1757.0,
+        2605.0,
+        2501.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        348.0,
+        2255.0,
+        1096.0,
+        2981.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        2641.0,
+        1837.0,
+        3439.0,
+        2683.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        1439.0,
+        2881.0,
+        1773.0,
+        3024.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        3724.0,
+        1958.0,
+        4027.0,
+        2264.0
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        2634.0,
+        1.0,
+        2870.0,
+        194.0
+      ],
+      "width": 4032,
+      "height": 3024
+    }
+  ],
+  "labeled_date": "2025-08-23T20:48:31.117951"
+}
