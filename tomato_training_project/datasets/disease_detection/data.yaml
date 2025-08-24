@@ -1,0 +1,6 @@
+names:
+- early_blight
+nc: 1
+path: tomato_training_project\datasets\disease_detection
+train: images/train
+val: images/val
