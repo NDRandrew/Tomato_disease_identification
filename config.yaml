@@ -1,0 +1,33 @@
+# Tomato Disease Detection Configuration
+
+# Detection Settings
+TOMATO_CONFIDENCE_THRESHOLD: 0.5
+DISEASE_CONFIDENCE_THRESHOLD: 0.6
+
+# Model Paths
+TOMATO_MODEL: "tomato_training_project/models/tomato_detection_best.pt"
+DISEASE_MODEL: "tomato_training_project/models/disease_detection_best.pt"
+
+# Input/Output Directories
+INPUT_FOLDER: "input_images"
+OUTPUT_FOLDER: "tomato_detection_results"
+LOG_DIRECTORY: "logs"
+
+# Training Settings
+DEFAULT_EPOCHS: 100
+DEFAULT_BATCH_SIZE: 16
+DEFAULT_MODEL_SIZE: "s"  # n, s, m, l, x
+
+# Supported Disease Classes
+DISEASES:
+  - healthy
+  - bacterial_spot
+  - early_blight
+  - late_blight
+  - leaf_mold
+  - septoria_leaf_spot
+  - spider_mites
+  - target_spot
+  - yellow_leaf_curl_virus
+  - mosaic_virus
+  - bacterial_canker
