@@ -1,0 +1,280 @@
+{
+  "image_path": "input_images\\0206.JPG",
+  "metadata": {
+    "height": 3024,
+    "width": 4032,
+    "channels": 3,
+    "original_path": "input_images\\0206.JPG"
+  },
+  "processing_timestamp": "2025-08-23T19:18:44.073589",
+  "detections": [
+    {
+      "bbox": [
+        1935.9073486328125,
+        1105.4404296875,
+        2632.971435546875,
+        1880.2965087890625
+      ],
+      "confidence": 0.9190430045127869,
+      "class": "tomato",
+      "class_id": 0,
+      "area": 540124.375,
+      "centroid": [
+        2284.439453125,
+        1492.868408203125
+      ],
+      "diseases": [],
+      "primary_disease": null,
+      "health_status": "healthy",
+      "disease_count": 0
+    },
+    {
+      "bbox": [
+        3297.20556640625,
+        13.423500061035156,
+        4027.864013671875,
+        681.5380249023438
+      ],
+      "confidence": 0.9137939810752869,
+      "class": "tomato",
+      "class_id": 0,
+      "area": 488163.5,
+      "centroid": [
+        3662.53466796875,
+        347.48077392578125
+      ],
+      "diseases": [
+        {
+          "disease": "healthy",
+          "confidence": 0.7626916766166687,
+          "severity": "moderate"
+        },
+        {
+          "disease": "healthy",
+          "confidence": 0.7286128401756287,
+          "severity": "moderate"
+        }
+      ],
+      "primary_disease": null,
+      "health_status": "healthy",
+      "disease_count": 0
+    },
+    {
+      "bbox": [
+        1006.3959350585938,
+        1159.8526611328125,
+        1767.4927978515625,
+        1942.1085205078125
+      ],
+      "confidence": 0.9126724600791931,
+      "class": "tomato",
+      "class_id": 0,
+      "area": 595372.5,
+      "centroid": [
+        1386.9443359375,
+        1550.9805908203125
+      ],
+      "diseases": [],
+      "primary_disease": null,
+      "health_status": "healthy",
+      "disease_count": 0
+    },
+    {
+      "bbox": [
+        2953.574462890625,
+        592.1309814453125,
+        3548.601318359375,
+        1172.8236083984375
+      ],
+      "confidence": 0.9115056991577148,
+      "class": "tomato",
+      "class_id": 0,
+      "area": 345527.71875,
+      "centroid": [
+        3251.087890625,
+        882.477294921875
+      ],
+      "diseases": [],
+      "primary_disease": null,
+      "health_status": "healthy",
+      "disease_count": 0
+    },
+    {
+      "bbox": [
+        2872.423828125,
+        0.0,
+        3249.049072265625,
+        374.8235168457031
+      ],
+      "confidence": 0.9017050266265869,
+      "class": "tomato",
+      "class_id": 0,
+      "area": 141168.0,
+      "centroid": [
+        3060.736328125,
+        187.41175842285156
+      ],
+      "diseases": [],
+      "primary_disease": null,
+      "health_status": "healthy",
+      "disease_count": 0
+    },
+    {
+      "bbox": [
+        2543.65185546875,
+        1491.310791015625,
+        2874.443359375,
+        1925.2874755859375
+      ],
+      "confidence": 0.8861212134361267,
+      "class": "tomato",
+      "class_id": 0,
+      "area": 143555.796875,
+      "centroid": [
+        2709.047607421875,
+        1708.299072265625
+      ],
+      "diseases": [],
+      "primary_disease": null,
+      "health_status": "healthy",
+      "disease_count": 0
+    },
+    {
+      "bbox": [
+        2731.62646484375,
+        477.7757263183594,
+        3127.0625,
+        907.2079467773438
+      ],
+      "confidence": 0.8595439195632935,
+      "class": "tomato",
+      "class_id": 0,
+      "area": 169812.96875,
+      "centroid": [
+        2929.344482421875,
+        692.4918212890625
+      ],
+      "diseases": [],
+      "primary_disease": null,
+      "health_status": "healthy",
+      "disease_count": 0
+    },
+    {
+      "bbox": [
+        183.87249755859375,
+        1020.100830078125,
+        947.7671508789062,
+        1829.239013671875
+      ],
+      "confidence": 0.7033770084381104,
+      "class": "tomato",
+      "class_id": 0,
+      "area": 618096.3125,
+      "centroid": [
+        565.81982421875,
+        1424.669921875
+      ],
+      "diseases": [
+        {
+          "disease": "healthy",
+          "confidence": 0.6450979113578796,
+          "severity": "moderate"
+        }
+      ],
+      "primary_disease": null,
+      "health_status": "healthy",
+      "disease_count": 0
+    },
+    {
+      "bbox": [
+        10.523199081420898,
+        1781.2384033203125,
+        788.4436645507812,
+        2861.746826171875
+      ],
+      "confidence": 0.5874080657958984,
+      "class": "tomato_plant",
+      "class_id": 1,
+      "area": 840549.625,
+      "centroid": [
+        399.4834289550781,
+        2321.49267578125
+      ],
+      "diseases": [],
+      "primary_disease": null,
+      "health_status": "healthy",
+      "disease_count": 0
+    },
+    {
+      "bbox": [
+        3399.02978515625,
+        2677.125732421875,
+        4028.7529296875,
+        3024.0
+      ],
+      "confidence": 0.5458386540412903,
+      "class": "tomato_plant",
+      "class_id": 1,
+      "area": 218434.75,
+      "centroid": [
+        3713.891357421875,
+        2850.56298828125
+      ],
+      "diseases": [
+        {
+          "disease": "healthy",
+          "confidence": 0.6443094611167908,
+          "severity": "moderate"
+        }
+      ],
+      "primary_disease": null,
+      "health_status": "healthy",
+      "disease_count": 0
+    },
+    {
+      "bbox": [
+        420.93701171875,
+        1919.940673828125,
+        1680.78759765625,
+        3024.0
+      ],
+      "confidence": 0.5408337712287903,
+      "class": "tomato_plant",
+      "class_id": 1,
+      "area": 1390949.75,
+      "centroid": [
+        1050.8623046875,
+        2471.97021484375
+      ],
+      "diseases": [
+        {
+          "disease": "healthy",
+          "confidence": 0.9592726230621338,
+          "severity": "severe"
+        },
+        {
+          "disease": "healthy",
+          "confidence": 0.798855721950531,
+          "severity": "moderate"
+        },
+        {
+          "disease": "healthy",
+          "confidence": 0.7781446576118469,
+          "severity": "moderate"
+        }
+      ],
+      "primary_disease": null,
+      "health_status": "healthy",
+      "disease_count": 0
+    }
+  ],
+  "summary": {
+    "total_detections": 11,
+    "tomato_count": 8,
+    "plant_count": 3,
+    "not_tomato_count": 0,
+    "healthy_count": 11,
+    "diseased_count": 0,
+    "diseases_found": []
+  }
+}

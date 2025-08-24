@@ -1,0 +1,55 @@
+{
+  "image_path": "images_to_label\\0233.JPG",
+  "image_name": "0233.JPG",
+  "task": "tomato_detection",
+  "annotations": [
+    {
+      "class": "tomato",
+      "bbox": [
+        1494.1545454545453,
+        1931.7181818181818,
+        2448.481818181818,
+        2909.609090909091
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        2648.7727272727275,
+        1711.790909090909,
+        3595.2454545454543,
+        2783.9363636363637
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        143.17272727272723,
+        745.681818181818,
+        1026.809090909091,
+        1566.4818181818182
+      ],
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "class": "tomato",
+      "bbox": [
+        924.6999999999999,
+        906.6999999999998,
+        1454.8818181818183,
+        1484.009090909091
+      ],
+      "width": 4032,
+      "height": 3024
+    }
+  ],
+  "labeled_date": "2025-08-23T21:15:21.428384",
+  "labeling_tool": "standalone_labeling_tool",
+  "mode": "tomato_detection",
+  "total_annotations": 4
+}

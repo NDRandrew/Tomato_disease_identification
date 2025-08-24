@@ -1,0 +1,16 @@
+{
+  "total_images": 2,
+  "labeled_images": 1,
+  "skipped_images": 0,
+  "total_annotations": 4,
+  "class_counts": {
+    "tomato": 4
+  },
+  "labeling_mode": "tomato_detection",
+  "session_start": "2025-08-23T21:15:08.933810",
+  "labeled_files": [
+    "0233.JPG"
+  ],
+  "session_end": "2025-08-23T21:15:26.737581",
+  "session_time": "17.80s"
+}

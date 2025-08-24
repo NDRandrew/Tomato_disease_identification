@@ -1,0 +1,101 @@
+{
+  "image_path": "input_images\\Captura de tela 2025-08-23 185014.png",
+  "metadata": {
+    "height": 964,
+    "width": 964,
+    "channels": 3,
+    "original_path": "input_images\\Captura de tela 2025-08-23 185014.png"
+  },
+  "processing_timestamp": "2025-08-23T18:50:26.468173",
+  "detections": [
+    {
+      "bbox": [
+        147.07122802734375,
+        672.1239013671875,
+        391.7215270996094,
+        964.0
+      ],
+      "confidence": 0.914405107498169,
+      "class": "not_tomato",
+      "class_id": 2,
+      "area": 71407.578125,
+      "centroid": [
+        269.3963623046875,
+        818.0619506835938
+      ],
+      "diseases": [],
+      "primary_disease": null,
+      "health_status": "not_applicable",
+      "disease_count": 0
+    },
+    {
+      "bbox": [
+        129.78746032714844,
+        260.8226623535156,
+        446.8662414550781,
+        666.1190795898438
+      ],
+      "confidence": 0.9121175408363342,
+      "class": "not_tomato",
+      "class_id": 2,
+      "area": 128510.8984375,
+      "centroid": [
+        288.32684326171875,
+        463.47088623046875
+      ],
+      "diseases": [],
+      "primary_disease": null,
+      "health_status": "not_applicable",
+      "disease_count": 0
+    },
+    {
+      "bbox": [
+        0.3707706332206726,
+        232.2776641845703,
+        146.88064575195312,
+        639.8760375976562
+      ],
+      "confidence": 0.7404433488845825,
+      "class": "not_tomato",
+      "class_id": 2,
+      "area": 59717.1875,
+      "centroid": [
+        73.6257095336914,
+        436.07684326171875
+      ],
+      "diseases": [],
+      "primary_disease": null,
+      "health_status": "not_applicable",
+      "disease_count": 0
+    },
+    {
+      "bbox": [
+        266.6390686035156,
+        31.879127502441406,
+        408.20513916015625,
+        215.61590576171875
+      ],
+      "confidence": 0.5727077722549438,
+      "class": "not_tomato",
+      "class_id": 2,
+      "area": 26010.89453125,
+      "centroid": [
+        337.422119140625,
+        123.74751281738281
+      ],
+      "diseases": [],
+      "primary_disease": null,
+      "health_status": "not_applicable",
+      "disease_count": 0
+    }
+  ],
+  "summary": {
+    "total_detections": 4,
+    "tomato_count": 0,
+    "plant_count": 0,
+    "not_tomato_count": 4,
+    "healthy_count": 0,
+    "diseased_count": 0,
+    "diseases_found": []
+  }
+}

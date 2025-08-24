@@ -1,0 +1,161 @@
+{
+  "image_path": "input_images\\Captura de tela 2025-08-23 184907.png",
+  "metadata": {
+    "height": 673,
+    "width": 1077,
+    "channels": 3,
+    "original_path": "input_images\\Captura de tela 2025-08-23 184907.png"
+  },
+  "processing_timestamp": "2025-08-23T18:49:30.169607",
+  "detections": [
+    {
+      "bbox": [
+        612.2450561523438,
+        358.30169677734375,
+        808.1641235351562,
+        594.8244018554688
+      ],
+      "confidence": 0.9370468258857727,
+      "class": "not_tomato",
+      "class_id": 2,
+      "area": 46339.30859375,
+      "centroid": [
+        710.20458984375,
+        476.56304931640625
+      ],
+      "diseases": [],
+      "primary_disease": null,
+      "health_status": "not_applicable",
+      "disease_count": 0
+    },
+    {
+      "bbox": [
+        437.7074890136719,
+        159.89193725585938,
+        666.9611206054688,
+        381.97235107421875
+      ],
+      "confidence": 0.8565530776977539,
+      "class": "not_tomato",
+      "class_id": 2,
+      "area": 50912.7421875,
+      "centroid": [
+        552.3342895507812,
+        270.93212890625
+      ],
+      "diseases": [],
+      "primary_disease": null,
+      "health_status": "not_applicable",
+      "disease_count": 0
+    },
+    {
+      "bbox": [
+        638.5073852539062,
+        178.2712860107422,
+        798.234619140625,
+        408.8298645019531
+      ],
+      "confidence": 0.7066210508346558,
+      "class": "not_tomato",
+      "class_id": 2,
+      "area": 36826.484375,
+      "centroid": [
+        718.3709716796875,
+        293.5505676269531
+      ],
+      "diseases": [],
+      "primary_disease": null,
+      "health_status": "not_applicable",
+      "disease_count": 0
+    },
+    {
+      "bbox": [
+        746.7455444335938,
+        185.927001953125,
+        841.4968872070312,
+        325.0807800292969
+      ],
+      "confidence": 0.6997156143188477,
+      "class": "not_tomato",
+      "class_id": 2,
+      "area": 13185.0078125,
+      "centroid": [
+        794.1212158203125,
+        255.50389099121094
+      ],
+      "diseases": [],
+      "primary_disease": null,
+      "health_status": "not_applicable",
+      "disease_count": 0
+    },
+    {
+      "bbox": [
+        264.4162292480469,
+        274.3603210449219,
+        452.1329040527344,
+        459.93023681640625
+      ],
+      "confidence": 0.6038125157356262,
+      "class": "not_tomato",
+      "class_id": 2,
+      "area": 34834.56640625,
+      "centroid": [
+        358.2745666503906,
+        367.145263671875
+      ],
+      "diseases": [],
+      "primary_disease": null,
+      "health_status": "not_applicable",
+      "disease_count": 0
+    },
+    {
+      "bbox": [
+        34.027854919433594,
+        408.251708984375,
+        258.0650634765625,
+        650.1583251953125
+      ],
+      "confidence": 0.519829273223877,
+      "class": "not_tomato",
+      "class_id": 2,
+      "area": 54196.08203125,
+      "centroid": [
+        146.0464630126953,
+        529.2050170898438
+      ],
+      "diseases": [],
+      "primary_disease": null,
+      "health_status": "not_applicable",
+      "disease_count": 0
+    },
+    {
+      "bbox": [
+        619.4264526367188,
+        61.42205047607422,
+        757.9893798828125,
+        195.25132751464844
+      ],
+      "confidence": 0.5189088582992554,
+      "class": "not_tomato",
+      "class_id": 2,
+      "area": 18543.77734375,
+      "centroid": [
+        688.7078857421875,
+        128.33668518066406
+      ],
+      "diseases": [],
+      "primary_disease": null,
+      "health_status": "not_applicable",
+      "disease_count": 0
+    }
+  ],
+  "summary": {
+    "total_detections": 7,
+    "tomato_count": 0,
+    "plant_count": 0,
+    "not_tomato_count": 7,
+    "healthy_count": 0,
+    "diseased_count": 0,
+    "diseases_found": []
+  }
+}

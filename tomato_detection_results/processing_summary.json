@@ -1,0 +1,56 @@
+{
+  "total_images": 2,
+  "processed_images": 2,
+  "failed_images": 0,
+  "total_detections": 0,
+  "total_tomatoes": 0,
+  "total_plants": 0,
+  "total_not_tomatoes": 0,
+  "healthy_detections": 0,
+  "diseased_detections": 0,
+  "diseases_summary": {},
+  "processing_start": "2025-08-23T21:28:01.899841",
+  "results_per_image": [
+    {
+      "image_path": "input_images\\0233.JPG",
+      "metadata": {
+        "height": 3024,
+        "width": 4032,
+        "channels": 3,
+        "original_path": "input_images\\0233.JPG"
+      },
+      "processing_timestamp": "2025-08-23T21:28:03.101773",
+      "detections": [],
+      "summary": {
+        "total_detections": 0,
+        "tomato_count": 0,
+        "plant_count": 0,
+        "not_tomato_count": 0,
+        "healthy_count": 0,
+        "diseased_count": 0,
+        "diseases_found": []
+      }
+    },
+    {
+      "image_path": "input_images\\0233.JPG",
+      "metadata": {
+        "height": 3024,
+        "width": 4032,
+        "channels": 3,
+        "original_path": "input_images\\0233.JPG"
+      },
+      "processing_timestamp": "2025-08-23T21:28:03.316710",
+      "detections": [],
+      "summary": {
+        "total_detections": 0,
+        "tomato_count": 0,
+        "plant_count": 0,
+        "not_tomato_count": 0,
+        "healthy_count": 0,
+        "diseased_count": 0,
+        "diseases_found": []
+      }
+    }
+  ],
+  "processing_end": "2025-08-23T21:28:03.319045"
+}
