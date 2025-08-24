@@ -1,0 +1,97 @@
+{
+  "image_path": "tomato_training_project\\raw_images\\disease_detection\\early_blight\\39c Early blight fruit sporulation (Yuan-Min Shen Taichung etc bugwd)5393411.jpg",
+  "image_name": "39c Early blight fruit sporulation (Yuan-Min Shen Taichung etc bugwd)5393411.jpg",
+  "task": "disease_detection",
+  "disease": "early_blight",
+  "annotations": [
+    {
+      "class": "early_blight",
+      "bbox": [
+        892.7402597402596,
+        305.27272727272725,
+        1835.0194805194806,
+        1394.198051948052
+      ],
+      "width": 2735,
+      "height": 1922
+    },
+    {
+      "class": "early_blight",
+      "bbox": [
+        1494.9253246753246,
+        926.1785714285713,
+        1797.5779220779223,
+        1294.3538961038962
+      ],
+      "width": 2735,
+      "height": 1922
+    },
+    {
+      "class": "early_blight",
+      "bbox": [
+        1279.6363636363635,
+        1122.7467532467533,
+        1641.571428571429,
+        1425.3993506493507
+      ],
+      "width": 2735,
+      "height": 1922
+    },
+    {
+      "class": "early_blight",
+      "bbox": [
+        640.0097402597402,
+        458.159090909091,
+        755.4545454545454,
+        548.6428571428571
+      ],
+      "width": 2735,
+      "height": 1922
+    },
+    {
+      "class": "early_blight",
+      "bbox": [
+        633.7694805194805,
+        554.8831168831168,
+        786.6558441558442,
+        682.8084415584415
+      ],
+      "width": 2735,
+      "height": 1922
+    },
+    {
+      "class": "early_blight",
+      "bbox": [
+        2533.9285714285716,
+        620.4058441558441,
+        2711.7759740259744,
+        888.737012987013
+      ],
+      "width": 2735,
+      "height": 1922
+    },
+    {
+      "class": "early_blight",
+      "bbox": [
+        939.5422077922077,
+        448.7987012987014,
+        1251.5551948051948,
+        804.4935064935064
+      ],
+      "width": 2735,
+      "height": 1922
+    },
+    {
+      "class": "early_blight",
+      "bbox": [
+        1276.5162337662337,
+        767.0519480519481,
+        1457.4837662337663,
+        969.8603896103896
+      ],
+      "width": 2735,
+      "height": 1922
+    }
+  ],
+  "labeled_date": "2025-08-23T18:53:20.991138"
+}
