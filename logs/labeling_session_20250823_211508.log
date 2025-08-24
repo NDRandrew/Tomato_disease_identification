@@ -1,0 +1,19 @@
+2025-08-23 21:15:08,933 - INFO - ============================================================
+2025-08-23 21:15:08,934 - INFO - STANDALONE LABELING TOOL STARTED
+2025-08-23 21:15:08,934 - INFO - ============================================================
+2025-08-23 21:15:08,934 - INFO - Start time: 2025-08-23 21:15:08
+2025-08-23 21:15:08,934 - INFO - Input directory: images_to_label
+2025-08-23 21:15:08,934 - INFO - Output directory: labeled_annotations
+2025-08-23 21:15:08,934 - INFO - Current mode: tomato_detection
+2025-08-23 21:15:08,936 - INFO - Starting labeling session in tomato_detection mode
+2025-08-23 21:15:08,937 - INFO - Found 2 images to label
+2025-08-23 21:15:21,429 - INFO - Saved 4 annotations: 0233.json
+2025-08-23 21:15:26,738 - INFO - ============================================================
+2025-08-23 21:15:26,738 - INFO - LABELING SESSION SUMMARY
+2025-08-23 21:15:26,739 - INFO - ============================================================
+2025-08-23 21:15:26,739 - INFO - Images labeled: 1/2
+2025-08-23 21:15:26,739 - INFO - Total annotations: 4
+2025-08-23 21:15:26,739 - INFO - Classes: tomato(4)
+2025-08-23 21:15:26,740 - INFO - Session time: 17.80s
+2025-08-23 21:15:26,740 - INFO - Annotations saved to: labeled_annotations
+2025-08-23 21:15:26,740 - INFO - ============================================================

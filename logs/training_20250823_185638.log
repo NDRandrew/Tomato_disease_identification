@@ -1,0 +1,7 @@
+2025-08-23 18:56:38,764 - __main__ - INFO - ============================================================
+2025-08-23 18:56:38,765 - __main__ - INFO - TOMATO TRAINING PIPELINE STARTED
+2025-08-23 18:56:38,765 - __main__ - INFO - ============================================================
+2025-08-23 18:56:38,765 - __main__ - INFO - Log file: logs\training_20250823_185638.log
+2025-08-23 18:56:38,765 - __main__ - INFO - Project directory: tomato_training_project
+2025-08-23 18:56:38,766 - __main__ - INFO - Created project structure in: tomato_training_project
+2025-08-23 18:56:38,767 - __main__ - INFO - Created comprehensive README.md

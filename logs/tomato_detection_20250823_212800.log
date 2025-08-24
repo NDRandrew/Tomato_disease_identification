@@ -1,0 +1,31 @@
+2025-08-23 21:28:00,506 - INFO - ============================================================
+2025-08-23 21:28:00,506 - INFO - TOMATO DISEASE DETECTION SYSTEM STARTED
+2025-08-23 21:28:00,507 - INFO - ============================================================
+2025-08-23 21:28:00,507 - INFO - Log file: logs\tomato_detection_20250823_212800.log
+2025-08-23 21:28:00,507 - INFO - Start time: 2025-08-23 21:28:00
+2025-08-23 21:28:00,507 - INFO - Tomato confidence: 0.5
+2025-08-23 21:28:00,507 - INFO - Disease confidence: 0.6
+2025-08-23 21:28:01,859 - INFO - Loaded tomato detection model: tomato_training_project/models/tomato_detection_best.pt
+2025-08-23 21:28:01,895 - INFO - Loaded disease detection model: tomato_training_project/models/disease_detection_best.pt
+2025-08-23 21:28:01,899 - INFO - Processing: 0233.JPG
+2025-08-23 21:28:01,968 - INFO - Loaded image: 0233.JPG (3024x4032)
+2025-08-23 21:28:01,968 - INFO - Stage 1: Detecting tomatoes/plants
+2025-08-23 21:28:03,049 - INFO - Stage 1 complete: 0 detections in 1.08s
+2025-08-23 21:28:03,102 - INFO - Completed 0233.JPG: 0 detections in 1.20s
+2025-08-23 21:28:03,103 - INFO - Processing: 0233.JPG
+2025-08-23 21:28:03,191 - INFO - Loaded image: 0233.JPG (3024x4032)
+2025-08-23 21:28:03,192 - INFO - Stage 1: Detecting tomatoes/plants
+2025-08-23 21:28:03,267 - INFO - Stage 1 complete: 0 detections in 0.07s
+2025-08-23 21:28:03,317 - INFO - Completed 0233.JPG: 0 detections in 0.21s
+2025-08-23 21:28:03,319 - INFO - ============================================================
+2025-08-23 21:28:03,320 - INFO - ============================================================
+2025-08-23 21:28:03,321 - INFO - Images processed: 2/2
+2025-08-23 21:28:03,321 - INFO - Total detections: 0
+2025-08-23 21:28:03,321 - INFO - Tomatoes: 0, Plants: 0, Not tomatoes: 0
+2025-08-23 21:28:03,321 - INFO - Healthy: 0, Diseased: 0
+2025-08-23 21:28:03,321 - INFO - Results saved to: tomato_detection_results
+2025-08-23 21:28:03,321 - INFO - ============================================================
+2025-08-23 21:28:03,322 - INFO - ============================================================
+2025-08-23 21:28:03,322 - INFO - SESSION ENDED: 2025-08-23 21:28:03
+2025-08-23 21:28:03,322 - INFO - Total duration: 2.82s
+2025-08-23 21:28:03,322 - INFO - ============================================================

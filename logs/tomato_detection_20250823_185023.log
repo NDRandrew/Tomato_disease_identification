@@ -1,0 +1,24 @@
+2025-08-23 18:50:23,669 - __main__ - INFO - ============================================================
+2025-08-23 18:50:23,670 - __main__ - INFO - TOMATO DISEASE DETECTION SYSTEM STARTED
+2025-08-23 18:50:23,670 - __main__ - INFO - ============================================================
+2025-08-23 18:50:23,670 - __main__ - INFO - Log file: logs\tomato_detection_20250823_185023.log
+2025-08-23 18:50:23,670 - __main__ - INFO - Confidence threshold (tomato): 0.5
+2025-08-23 18:50:23,670 - __main__ - INFO - Confidence threshold (disease): 0.6
+2025-08-23 18:50:25,049 - __main__ - INFO - Loaded tomato detection model: tomato_training_project/models/tomato_detection_best.pt
+2025-08-23 18:50:25,084 - __main__ - INFO - Loaded disease detection model: tomato_training_project/models/disease_detection_best.pt
+2025-08-23 18:50:26,308 - __main__ - INFO -    Detection 1: not_tomato - skipping disease analysis
+2025-08-23 18:50:26,308 - __main__ - INFO -    Detection 2: not_tomato - skipping disease analysis
+2025-08-23 18:50:26,309 - __main__ - INFO -    Detection 3: not_tomato - skipping disease analysis
+2025-08-23 18:50:26,309 - __main__ - INFO -    Detection 4: not_tomato - skipping disease analysis
+2025-08-23 18:50:26,459 - __main__ - INFO -    Detection 1: not_tomato - skipping disease analysis
+2025-08-23 18:50:26,459 - __main__ - INFO -    Detection 2: not_tomato - skipping disease analysis
+2025-08-23 18:50:26,459 - __main__ - INFO -    Detection 3: not_tomato - skipping disease analysis
+2025-08-23 18:50:26,459 - __main__ - INFO -    Detection 4: not_tomato - skipping disease analysis
+2025-08-23 18:50:26,472 - __main__ - INFO - ============================================================
+2025-08-23 18:50:26,473 - __main__ - INFO - ============================================================
+2025-08-23 18:50:26,473 - __main__ - INFO - Images processed: 2/2
+2025-08-23 18:50:26,473 - __main__ - INFO - Total detections: 8
+2025-08-23 18:50:26,474 - __main__ - INFO - Tomatoes: 0, Plants: 0, Not tomatoes: 8
+2025-08-23 18:50:26,474 - __main__ - INFO - Healthy: 0, Diseased: 0
+2025-08-23 18:50:26,474 - __main__ - INFO - Results saved to: tomato_detection_results
+2025-08-23 18:50:26,474 - __main__ - INFO - ============================================================

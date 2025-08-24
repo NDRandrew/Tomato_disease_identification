@@ -1,0 +1,38 @@
+2025-08-23 18:25:53,293 - __main__ - INFO - ============================================================
+2025-08-23 18:25:53,294 - __main__ - INFO - TOMATO DISEASE DETECTION SYSTEM STARTED
+2025-08-23 18:25:53,294 - __main__ - INFO - ============================================================
+2025-08-23 18:25:53,294 - __main__ - INFO - Log file: logs\tomato_detection_20250823_182553.log
+2025-08-23 18:25:53,294 - __main__ - INFO - Confidence threshold (tomato): 0.5
+2025-08-23 18:25:53,294 - __main__ - INFO - Confidence threshold (disease): 0.6
+2025-08-23 18:25:54,848 - __main__ - INFO - Loaded tomato detection model: tomato_training_project/models/tomato_detection_best.pt
+2025-08-23 18:25:54,896 - __main__ - INFO - Loaded disease detection model: tomato_training_project/models/disease_detection_best.pt
+2025-08-23 18:25:56,106 - __main__ - INFO -    Detection 1: not_tomato - skipping disease analysis
+2025-08-23 18:25:56,106 - __main__ - INFO -    Detection 2: not_tomato - skipping disease analysis
+2025-08-23 18:25:56,306 - __main__ - INFO -    Detection 4: not_tomato - skipping disease analysis
+2025-08-23 18:25:56,494 - __main__ - INFO -    Detection 7: not_tomato - skipping disease analysis
+2025-08-23 18:25:56,494 - __main__ - INFO -    Detection 8: not_tomato - skipping disease analysis
+2025-08-23 18:25:56,599 - __main__ - INFO -    Detection 10: not_tomato - skipping disease analysis
+2025-08-23 18:25:56,875 - __main__ - INFO -    Detection 14: not_tomato - skipping disease analysis
+2025-08-23 18:25:56,952 - __main__ - INFO -    Detection 16: not_tomato - skipping disease analysis
+2025-08-23 18:25:56,952 - __main__ - INFO -    Detection 17: not_tomato - skipping disease analysis
+2025-08-23 18:25:57,034 - __main__ - INFO -    Detection 19: not_tomato - skipping disease analysis
+2025-08-23 18:25:57,035 - __main__ - INFO -    - healthy: 145 instances
+2025-08-23 18:25:57,139 - __main__ - INFO -    Detection 1: not_tomato - skipping disease analysis
+2025-08-23 18:25:57,139 - __main__ - INFO -    Detection 2: not_tomato - skipping disease analysis
+2025-08-23 18:25:57,234 - __main__ - INFO -    Detection 4: not_tomato - skipping disease analysis
+2025-08-23 18:25:57,405 - __main__ - INFO -    Detection 7: not_tomato - skipping disease analysis
+2025-08-23 18:25:57,405 - __main__ - INFO -    Detection 8: not_tomato - skipping disease analysis
+2025-08-23 18:25:57,497 - __main__ - INFO -    Detection 10: not_tomato - skipping disease analysis
+2025-08-23 18:25:57,747 - __main__ - INFO -    Detection 14: not_tomato - skipping disease analysis
+2025-08-23 18:25:57,812 - __main__ - INFO -    Detection 16: not_tomato - skipping disease analysis
+2025-08-23 18:25:57,812 - __main__ - INFO -    Detection 17: not_tomato - skipping disease analysis
+2025-08-23 18:25:57,893 - __main__ - INFO -    Detection 19: not_tomato - skipping disease analysis
+2025-08-23 18:25:57,895 - __main__ - INFO -    - healthy: 145 instances
+2025-08-23 18:25:57,913 - __main__ - INFO - ============================================================
+2025-08-23 18:25:57,914 - __main__ - INFO - ============================================================
+2025-08-23 18:25:57,914 - __main__ - INFO - Images processed: 2/2
+2025-08-23 18:25:57,915 - __main__ - INFO - Total detections: 38
+2025-08-23 18:25:57,915 - __main__ - INFO - Tomatoes: 6, Plants: 12, Not tomatoes: 20
+2025-08-23 18:25:57,915 - __main__ - INFO - Healthy: 18, Diseased: 0
+2025-08-23 18:25:57,915 - __main__ - INFO - Results saved to: tomato_detection_results
+2025-08-23 18:25:57,915 - __main__ - INFO - ============================================================

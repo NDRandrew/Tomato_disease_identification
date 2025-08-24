@@ -1,0 +1,16 @@
+2025-08-23 19:16:45,012 - __main__ - INFO - ============================================================
+2025-08-23 19:16:45,012 - __main__ - INFO - TOMATO DISEASE DETECTION SYSTEM STARTED
+2025-08-23 19:16:45,013 - __main__ - INFO - ============================================================
+2025-08-23 19:16:45,013 - __main__ - INFO - Log file: logs\tomato_detection_20250823_191645.log
+2025-08-23 19:16:45,013 - __main__ - INFO - Confidence threshold (tomato): 0.5
+2025-08-23 19:16:45,013 - __main__ - INFO - Confidence threshold (disease): 0.6
+2025-08-23 19:16:46,458 - __main__ - INFO - Loaded tomato detection model: tomato_training_project/models/tomato_detection_best.pt
+2025-08-23 19:16:46,493 - __main__ - INFO - Loaded disease detection model: tomato_training_project/models/disease_detection_best.pt
+2025-08-23 19:16:47,791 - __main__ - INFO - ============================================================
+2025-08-23 19:16:47,793 - __main__ - INFO - ============================================================
+2025-08-23 19:16:47,793 - __main__ - INFO - Images processed: 2/2
+2025-08-23 19:16:47,793 - __main__ - INFO - Total detections: 0
+2025-08-23 19:16:47,793 - __main__ - INFO - Tomatoes: 0, Plants: 0, Not tomatoes: 0
+2025-08-23 19:16:47,793 - __main__ - INFO - Healthy: 0, Diseased: 0
+2025-08-23 19:16:47,793 - __main__ - INFO - Results saved to: tomato_detection_results
+2025-08-23 19:16:47,793 - __main__ - INFO - ============================================================

@@ -1,0 +1,7 @@
+2025-08-23 21:14:48,729 - INFO - ============================================================
+2025-08-23 21:14:48,730 - INFO - STANDALONE LABELING TOOL STARTED
+2025-08-23 21:14:48,730 - INFO - ============================================================
+2025-08-23 21:14:48,730 - INFO - Start time: 2025-08-23 21:14:48
+2025-08-23 21:14:48,730 - INFO - Input directory: images_to_label
+2025-08-23 21:14:48,730 - INFO - Output directory: labeled_annotations
+2025-08-23 21:14:48,730 - INFO - Current mode: tomato_detection
