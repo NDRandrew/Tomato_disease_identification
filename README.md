@@ -15,9 +15,9 @@
 
 ## 📋 Sobre o Projeto | About the Project
 
-**[PT-BR]** Este é um sistema de detecção de doenças em tomateiros desenvolvido como Trabalho de Conclusão de Curso (TCC) por **André Carbonieri Silva**. O sistema utiliza técnicas avançadas de visão computacional e deep learning para identificar automaticamente doenças em plantas de tomate através de imagens, auxiliando produtores na detecção precoce de problemas fitossanitários.
+**[PT-BR]** Este é um sistema de detecção de doenças em tomateiros desenvolvido como Trabalho de Conclusão de Curso (TCC) onde o Desenvolvimento foi feito por **André Carbonieri Silva**. O sistema utiliza técnicas avançadas de visão computacional e deep learning para identificar automaticamente doenças em plantas de tomate através de imagens, auxiliando produtores na detecção precoce de problemas fitossanitários.
 
-**[EN]** This is a tomato disease detection system developed as a Thesis Completion Project (TCC) by **André Carbonieri Silva**. The system uses advanced computer vision and deep learning techniques to automatically identify diseases in tomato plants through images, helping farmers with early detection of phytosanitary problems.
+**[EN]** This is a tomato disease detection system developed as a Thesis Completion Project (TCC) where the software development was made by **André Carbonieri Silva**. The system uses advanced computer vision and deep learning techniques to automatically identify diseases in tomato plants through images, helping farmers with early detection of phytosanitary problems.
 
 ### 🎯 Características Principais | Key Features
 
@@ -360,7 +360,7 @@ This project is under the MIT license. See the `LICENSE` file for more details.
 
 ---
 
-## 👨‍💻 Autor | Author
+## 👨‍💻 DEV Autor | DEV Author
 
 **André Carbonieri Silva**
 - TCC - Trabalho de Conclusão de Curso
