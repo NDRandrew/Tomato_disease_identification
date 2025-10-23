@@ -1,0 +1,15 @@
+names:
+- bacterial_spot
+- early_blight
+- late_blight
+- leaf_mold
+- mosaic_virus_plant
+- septoria_leaf_spot
+- spider_mites
+- target_spot
+- yellow_leaf_curl_virus
+nc: 9
+path: "C:\\Users\\andre\\OneDrive\\\xC1rea de Trabalho\\Tomato_disease_identification\\\
+  tomato_training_project\\datasets\\disease_detection"
+train: images/train
+val: images/val

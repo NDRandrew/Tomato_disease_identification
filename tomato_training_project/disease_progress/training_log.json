@@ -1,0 +1,25 @@
+{
+  "diseases_trained": [
+    "early_blight"
+  ],
+  "training_history": [
+    {
+      "disease": "early_blight",
+      "timestamp": "2025-08-25T20:03:00.922566",
+      "epochs": null,
+      "best_fitness": null
+    },
+    {
+      "disease": null,
+      "timestamp": "2025-10-04T15:29:36.645478",
+      "epochs": null,
+      "best_fitness": null
+    },
+    {
+      "disease": null,
+      "timestamp": "2025-10-04T22:48:09.356285",
+      "epochs": null,
+      "best_fitness": null
+    }
+  ]
+}

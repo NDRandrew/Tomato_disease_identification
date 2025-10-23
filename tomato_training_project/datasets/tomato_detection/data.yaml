@@ -1,0 +1,10 @@
+names:
+- mature_tomato
+- immature_tomato
+- tomato_plant
+- not_tomato
+nc: 4
+path: "C:\\Users\\andre\\OneDrive\\\xC1rea de Trabalho\\Tomato_disease_identification\\\
+  tomato_training_project\\datasets\\tomato_detection"
+train: images/train
+val: images/val

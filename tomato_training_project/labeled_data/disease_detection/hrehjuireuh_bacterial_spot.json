@@ -1,0 +1,33 @@
+{
+  "image_path": "tomato_training_project\\raw_images\\disease_detection\\hrehjuireuh.png",
+  "image_name": "hrehjuireuh.png",
+  "task": "disease_detection",
+  "disease": "bacterial_spot",
+  "annotations": [
+    {
+      "class": "bacterial_spot",
+      "bbox": [
+        339.62987012987014,
+        119.49999999999989,
+        701.1883116883116,
+        510.6688311688311
+      ],
+      "width": 900,
+      "height": 600,
+      "type": "bbox"
+    },
+    {
+      "class": "bacterial_spot",
+      "bbox": [
+        117.55194805194807,
+        368.0714285714285,
+        349.7597402597403,
+        578.4610389610389
+      ],
+      "width": 900,
+      "height": 600,
+      "type": "bbox"
+    }
+  ],
+  "labeled_date": "2025-10-04T21:46:02.168280"
+}
