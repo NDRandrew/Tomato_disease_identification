@@ -5,11 +5,8 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 [![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-00FFFF.svg)](https://github.com/ultralytics/ultralytics)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TCC-UFABC-green.svg" alt="TCC Badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-Deep%20Learning-orange.svg" alt="CV Badge"/>
-</p>
+<img src="https://img.shields.io/badge/TCC-UFABC-green.svg" alt="TCC Badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-Deep%20Learning-orange.svg" alt="CV Badge"/>
 
 ---
 
